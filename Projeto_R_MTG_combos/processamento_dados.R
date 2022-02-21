@@ -26,6 +26,7 @@ write.csv(lista_cartas_combo,
           "D:/Projetos gyro4data/ML_MTG_combos/Dados/lista_cartas_combo.csv", 
           row.names = FALSE)
 
+i_ndice_Coralheim <- read_csv("D:/Projetos gyro4data/ML_MTG_combos/indice Coralheim.csv")
 
 
 
