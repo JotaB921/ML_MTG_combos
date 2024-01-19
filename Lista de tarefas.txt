@@ -5,3 +5,4 @@ A fazer:
  - Dividir a importância da carta número de cartas do combo
  - Contagem de prerequisitos do combo
  - Criar um índice da combagem
+ 

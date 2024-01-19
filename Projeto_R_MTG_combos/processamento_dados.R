@@ -6,7 +6,7 @@ library(pastecs)
 MTG_JSON_Dream_Trawler <- 
   read_csv("D:/Projetos gyro4data/ML_MTG_combos/Dados/MTJ_JSON_Dream Trawler.csv")
 spellbook_DB_combos <- 
-  read_csv("D:/Projetos gyro4data/ML_MTG_combos/Dados/Commander Spellbook Database - combos.csv")
+  read_csv("D:/Projetos gyro4data/ML_MTG_combos/Dados/db_edh_spell.csv")
 EDHREC_Number_of_Decks <- read_csv("D:/Projetos gyro4data/ML_MTG_combos/EDHREC Number of Decks.csv")
 
 stk_spell<- stack(spellbook_DB_combos[2:11])
